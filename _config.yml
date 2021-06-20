@@ -1,32 +1,27 @@
 # Site settings
-title: Klise Theme # site title
+title: 그 # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
-lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+  그저 그렇고 그런
+lang: ko-KR # default lang
+timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+    다시 시작하고 싶습니다
+  github: onkwon
+  email: kwon@toanyone.net
+  avatar: https://avatars.githubusercontent.com/u/13377204
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://toanyone.net" #
 baseurl:
-permalink: /:title/
-google_analytics: # leave it blank if not wish
+permalink: /blog/:title/
+google_analytics: 'UA-156427940-2' # leave it blank if not wish
 fb_appid:
 
 # Collection setting
