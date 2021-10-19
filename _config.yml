@@ -1,7 +1,7 @@
 # Site settings
-title: 그 # site title
+title: toanyone.net # site title
 description: >- # site description
-  그저 그렇고 그런
+  toanyone
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: # author name
   bio: >- # tell to the world
-    다시 시작하고 싶습니다
+    ,
   github: onkwon
   email: kwon@toanyone.net
   avatar: https://avatars.githubusercontent.com/u/13377204
@@ -21,7 +21,7 @@ author:
 url: "https://toanyone.net" #
 baseurl:
 permalink: /blog/:title/
-google_analytics: 'UA-156427940-2' # leave it blank if not wish
+google_analytics: 'UA-156427940-3' # leave it blank if not wish
 fb_appid:
 
 # Collection setting
